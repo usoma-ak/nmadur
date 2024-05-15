@@ -1,0 +1,308 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-05-15 06:56+0500\n"
+"PO-Revision-Date: 2024-05-14 15:00+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handlers.py:19
+msgid "Tilni tanlang: "
+msgstr "Choose language"
+
+#: handlers.py:26
+msgid "O'zbek"
+msgstr "Uzbek"
+
+#: handlers.py:28
+msgid "English"
+msgstr "English"
+
+#: handlers.py:29
+msgid "{lang} tili tanlandi"
+msgstr "{lang} lang chosen"
+
+#: handlers.py:32
+msgid "Sherik kerak"
+msgstr "Partner need"
+
+#: handlers.py:33
+msgid "Ish joyi kerak"
+msgstr "Workplace need"
+
+#: handlers.py:34
+msgid "Hodim kerak"
+msgstr "Worker need"
+
+#: handlers.py:35
+msgid "Ustoz kerak"
+msgstr "Teacher need"
+
+#: handlers.py:37
+msgid "Shogird kerak"
+msgstr "Apprentice need"
+
+#: handlers.py:39
+msgid ""
+"Assalomu alaykum {first_name} \n"
+"UstozShogird kanalining rasmiy botiga xush kelibsiz!\n"
+"\n"
+"\n"
+"/help yordam buyrugi orqali nimalarga qodir ekanligimni bilib oling!"
+msgstr ""
+"Assalomu alaykum {first_name} \n"
+"Welcome to the official bot of the channel UstozShogird !"
+
+#: handlers.py:47
+msgid ""
+"<b>Hodim topshirish uchun ariza berish</b>\n"
+"\n"
+"Hozir sizga birnecha savollar beriladi.\n"
+"Har biriga javob bering. Oxirida agar hammasi to`g`ri bo`lsa, HA "
+"tugmasini bosing va\n"
+"arizangiz Adminga yuboriladi."
+msgstr ""
+"<b>Apply for employment</b>\n"
+"\n"
+"You will now be asked a few questions.\n"
+"Answer each one. If all are correct at the end, YESclick and\n"
+"your application will be sent to Admin."
+
+#: handlers.py:54
+msgid "<b>🎓 Idora nomi??</b>"
+msgstr "<b>🎓 Name of the office??</b>"
+
+#: handlers.py:59
+msgid ""
+"<b>{category} topish uchun ariza berish</b>\n"
+"Hozir sizga birnecha savollar beriladi.\n"
+"Har biriga javob bering.\n"
+"Oxirida agar hammasi to`g`ri bo`lsa, HA tugmasini bosing va arizangiz "
+"Adminga yuboriladi."
+msgstr ""
+"<b>Apply to find {category}</b>\n"
+"You will now be asked a few questions.\n"
+"Answer each one.\n"
+"At the end, if everything is correct, press the YES button and your "
+"applicationSent to admin."
+
+#: handlers.py:62
+msgid "<b>Ism, familiyangizni kiriting?</b>"
+msgstr "<b>Enter your first and last name?</b>"
+
+#: handlers.py:72 handlers.py:89 handlers.py:196
+msgid ""
+"<b>📚 Texnologiya:</b>\n"
+"\n"
+"Talab qilinadigan texnologiyalarni kiriting?\n"
+"Texnologiya nomlarini vergul bilan ajrating.\n"
+"\n"
+"<em>Masalan: Java, C++, C#</em>"
+msgstr ""
+"<b>📚 Technology:</b>\n"
+"\n"
+"Enter required technologies?\n"
+"Separate technology names with commas.\n"
+"\n"
+"<em>Example: Java, C++, C#</em>"
+
+#: handlers.py:79
+msgid ""
+"<b>🕑 Yosh: </b>\n"
+"\n"
+"Yoshingizni kiriting?\n"
+"Masalan: 19"
+msgstr ""
+"<b>🕑 Age: </b>\n"
+"\n"
+"Enter your age?\n"
+"Example: 19"
+
+#: handlers.py:99 handlers.py:206
+msgid ""
+"<b>📞 Aloqa:</b>\n"
+"\n"
+"Bog`lanish uchun raqamingizni kiriting?\n"
+"Masalan: +998 90 123 45 67"
+msgstr ""
+"<b>📞 Contact:</b>\n"
+"\n"
+"Enter your contact number?\n"
+"Example: +998 90 123 45 67"
+
+#: handlers.py:108 handlers.py:215
+msgid ""
+"<b>🌐 Hudud: </b>\n"
+"\n"
+"Qaysi hududdansiz?\n"
+"Viloyat nomi, Toshkent shahar yoki Respublikani kiriting."
+msgstr ""
+"<b>🌐 Region: </b>\n"
+"\n"
+"What area are you from?\n"
+"Enter the name of the region, Tashkent city or Republic."
+
+#: handlers.py:117 handlers.py:240
+msgid ""
+"<b>💰 Narxi:</b>\n"
+"\n"
+"Tolov qilasizmi yoki Tekinmi??\n"
+"Kerak bo`lsa, Summani kiriting?"
+msgstr ""
+"<b>💰 Price:</b>\n"
+"\n"
+"Paid or Free??\n"
+"If necessary, enter Amount?"
+
+#: handlers.py:126
+msgid ""
+"<b>👨🏻‍💻 Kasbi: </b>\n"
+"\n"
+"Ishlaysizmi yoki o`qiysizmi?\n"
+"Masalan: Talaba"
+msgstr ""
+"<b>👨🏻‍💻 Occupation: </b>\n"
+"\n"
+"Do you work or study?\n"
+"Example:Student"
+
+#: handlers.py:135 handlers.py:224
+msgid ""
+"<b>🕰 Murojaat qilish vaqti: </b>\n"
+"\n"
+"Qaysi vaqtda murojaat qilish mumkin?\n"
+"Masalan: 9:00 - 18:00"
+msgstr ""
+"<b>🕰 Application time: </b>\n"
+"\n"
+"When can I apply?\n"
+"Example: 9:00 - 18:00"
+
+#: handlers.py:144
+msgid ""
+"<b>🔎 Maqsad: </b>\n"
+"\n"
+"Maqsadingizni qisqacha yozib bering."
+msgstr ""
+"<b>🔎 Target: </b>\n"
+"\n"
+"Briefly write down your purpose."
+
+#: handlers.py:156
+msgid ""
+"👨‍💼 Sherik: {full_name}\n"
+"📚 Texnologiya: {technology}\n"
+"🇺🇿 Telegram: @{telegram}\n"
+"📞 Aloqa: {phone_number}\n"
+"🌐 Hudud: {hudud}\n"
+"💰 Narxi: {price}\n"
+"👨🏻‍💻 Kasbi: {job}\n"
+"🕰 Murojaat qilish vaqti: {time}\n"
+"🔎 Maqsad: {goal}"
+msgstr ""
+"👨‍💼 Partner: {full_name}\n"
+"📚 Technology: {technology}\n"
+"🇺🇿 Telegram: @{telegram}\n"
+"📞 Contact: {phone_number}\n"
+"🌐 Region: {region}\n"
+"💰 Price: {price}\n"
+"👨🏻‍💻 Occupation: {job}\n"
+"🕰 Request time: {time}\n"
+"🔎 Goal: {goal}"
+
+#: handlers.py:163 handlers.py:178 handlers.py:274
+msgid "Barcha ma'lumotlar to'g'rmi?"
+msgstr "Is all the information correct?"
+
+#: handlers.py:171
+msgid ""
+"🕑 Yosh: {age}\n"
+"📚 Texnologiya: {technology}\n"
+"🇺🇿 Telegram: @{telegram}\n"
+"📞 Aloqa: {phone_number}\n"
+"🌐 Hudud: {hudud}\n"
+"💰 Narxi: {price}\n"
+"👨🏻‍💻 Kasbi: {job}\n"
+"🕰 Murojaat qilish vaqti: {time}\n"
+"🔎 Maqsad: {goal}"
+msgstr ""
+"🕑 Age: {age}\n"
+"📚 Technology: {technology}\n"
+"🇺🇿 Telegram: @{telegram}\n"
+"📞 Contact: {phone_number}\n"
+"🌐 Region: {region}\n"
+"💰 Price: {price}\n"
+"👨🏻‍💻 Occupation: {job}\n"
+"🕰 Request time: {time}\n"
+"🔎 Goal: {goal}"
+
+#: handlers.py:185 handlers.py:186 handlers.py:282 handlers.py:283
+msgid "HA"
+msgstr "YES"
+
+#: handlers.py:185 handlers.py:282
+msgid "YO'Q"
+msgstr "NO"
+
+#: handlers.py:187 handlers.py:284
+msgid "Saqlandi"
+msgstr "Saved"
+
+#: handlers.py:189 handlers.py:286
+msgid "Qa'bul qilinmadi"
+msgstr "Not accept"
+
+#: handlers.py:233
+msgid "<b>🕰 Ish vaqtini kiriting? </b>"
+msgstr "<b>🕰 Enter opening hours? </b>"
+
+#: handlers.py:249
+msgid ""
+"<b>‼️ Qo`shimcha ma`lumotlar? </b>\n"
+"\n"
+msgstr ""
+"<b>‼️ Additional information? </b>\n"
+"\n"
+
+#: handlers.py:257
+msgid ""
+"\n"
+"    🏢 Idora: {idora}\n"
+"📚 Texnologiya: {technology}\n"
+"🇺🇿 Telegram: @{username}\n"
+"📞 Aloqa: {phone_number}\n"
+"🌐 Hudud: {location}\n"
+"✍️ Mas'ul: {masul}\n"
+" 🕰 Murojaat qilish vaqti: {time}\n"
+"🕰 Ish vaqti: {time_worked}\n"
+"💰 Maosh: {price}\n"
+"‼️ Qo`shimcha: {another}\n"
+msgstr ""
+"\n"
+" 🏢 Office: {office}\n"
+"📚 Technology: {technology}\n"
+"🇺🇿 Telegram: @{username}\n"
+"📞 Contact: {phone_number}\n"
+"🌐 Region: {location}\n"
+"✍️ Responsible: {responsible}\n"
+" 🕰 Application time: {time}\n"
+"🕰 Working time: {time_worked}\n"
+"💰 Salary: {price}\n"
+"‼️ Additional: {other}\n"
+
+#: handlers.py:291
+msgid "/start so`zini bosing. E'lon berish qaytadan boshlanadi"
+msgstr "Click /start. Posting will start again"
+
